@@ -215,7 +215,7 @@ li:hover {
 }
 
 main {
-    background: rgb(0, 28, 153) no-repeat right top;
+    background: rgba(0, 0, 0, 0.7) no-repeat right top;
 }
 ```
 
