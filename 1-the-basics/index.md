@@ -227,6 +227,10 @@ Image of Specificity
 
 ![CSS Specificity](https://css-tricks.com/wp-content/csstricks-uploads/cssspecificity-calc-1.png)
 
+### Example
+
+![image](https://user-images.githubusercontent.com/61557537/80292898-fc9b6600-871f-11ea-8699-4a4baf96ec06.png)
+
 ### Selectors Task
 
 Please complete all levels on https://flukeout.github.io/
