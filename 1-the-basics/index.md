@@ -4,7 +4,7 @@ Cascading Style Sheets
 
 ## The basics
 
-CSS allows to change the look & feel of the HTML. Let's do the changes with this html `<body>`
+CSS allows to change the look & feel of the HTML. Let's do the changes with this `<body>`
 
 ```html
   <body>
