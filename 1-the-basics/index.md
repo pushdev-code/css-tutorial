@@ -10,7 +10,7 @@ CSS allows to change the look & feel of the HTML. Let's do the changes with this
   <body>
   <h1>First example with CSS</h1>
   <header>
-    <p>Welcome to the first CSS example</p>
+    <h2>Welcome to the first CSS example</h2>
   </header>
   <main>
     <article>
@@ -23,11 +23,22 @@ CSS allows to change the look & feel of the HTML. Let's do the changes with this
         of Lorem Ipsum.
       </p>
       <ul>
-        <li>item 1</li>
-        <li class="selected-item">item 2</li>
-        <li>item 3</li>
-        <li>item 4</li>
+        <li>Item 1</li>
+        <li class="selected-item">Item 2</li>
+        <li>Item 3</li>
+        <li>Item 4</li>
       </ul>
+    </article>
+    <h2>Welcome to the first CSS example</h2>
+    <article>
+      <p>
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+        standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
+        a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing
+        Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
+        of Lorem Ipsum.
+      </p>
     </article>
   </main>
   <footer>
