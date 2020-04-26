@@ -44,11 +44,9 @@ https://flexboxfroggy.com/
 
 ## Exercise
 
-1. Build the following layout using flexbox.
+1. Build the following layout using flexbox:
 
-Layout 4: https://cdn-images-1.medium.com/max/1600/1*1H1YXZtgYpRjJY8Xp05LpQ.gif
 
-![Layout 4](https://cdn-images-1.medium.com/max/1600/1*1H1YXZtgYpRjJY8Xp05LpQ.gif)
 
 * Create a new branch called /feature/css-basic-yourname
 * Push the changes to your local copy of the repo (Pull request).
