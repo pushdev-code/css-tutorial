@@ -1,16 +1,23 @@
 # Flexbox
 
-Flexbox is a one-dimensional layout method for laying out items in rows or columns. Items flex to fill additional space and shrink to fit into smaller spaces.
+* Flexbox is a one-dimensional layout method for laying out items in rows or columns. 
+* Items flex to fill additional space and shrink to fit into smaller spaces.
 
-The main idea behind the flex layout is to give the container the ability to alter its items' width/height (and order) to best fill the available space (mostly to accommodate to all kind of display devices and screen sizes). A flex container expands items to fill available free space or shrinks them to prevent overflow.
+Visit [Visual CSS Flexbox](http://www.csstutorial.org/flex-both.html)
+
+* The main idea behind the flex layout is to give the container the ability to alter its items' width/height (and order) to best fill the available space (mostly to accommodate to all kind of display devices and screen sizes). 
+* A flex container expands items to fill available free space or shrinks them to prevent overflow.
 
 Image of Flexbox axis
 
 ![Box Model](https://css-tricks.com/wp-content/uploads/2018/11/00-basic-terminology.svg)
 
-Most importantly, the flexbox layout is direction-agnostic as opposed to the regular layouts (block which is vertically-based and inline which is horizontally-based). While those work well for pages, they lack flexibility (no pun intended) to support large or complex applications (especially when it comes to orientation changing, resizing, stretching, shrinking, etc.).
+* Most importantly, the flexbox layout is direction-agnostic as opposed to the regular layouts (block which is vertically-based and inline which is horizontally-based). 
+* While those work well for pages, they lack flexibility (no pun intended) to support large or complex applications (especially when it comes to orientation changing, resizing, stretching, shrinking, etc.).
+* Since flexbox is a whole module and not a single property, it involves a lot of things including its whole set of properties. 
+* Some of them are meant to be set on the container (parent element, known as "flex container") whereas the others are meant to be set on the children (said "flex items").
 
-Since flexbox is a whole module and not a single property, it involves a lot of things including its whole set of properties. Some of them are meant to be set on the container (parent element, known as "flex container") whereas the others are meant to be set on the children (said "flex items").
+![image](https://user-images.githubusercontent.com/61557537/80294555-a0d8d900-872f-11ea-9e94-fcf3c360a65e.png)
 
 If "regular" layout is based on both block and inline flow directions, the flex layout is based on "flex-flow directions". Please have a look at this figure from the specification, explaining the main idea behind the flex layout.
 
@@ -31,3 +38,23 @@ If "regular" layout is based on both block and inline flow directions, the flex 
   justify-content: space-around;
 }
 ```
+## Let's practice
+
+https://flexboxfroggy.com/
+
+## Exercise
+
+1. Build the following layout using flexbox.
+
+Layout 4: https://cdn-images-1.medium.com/max/1600/1*1H1YXZtgYpRjJY8Xp05LpQ.gif
+
+![Layout 4](https://cdn-images-1.medium.com/max/1600/1*1H1YXZtgYpRjJY8Xp05LpQ.gif)
+
+* Create a new branch called /feature/css-basic-yourname
+* Push the changes to your local copy of the repo (Pull request).
+
+
+## Source
+
+* [CSS-Tricks-Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox tutorial](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
