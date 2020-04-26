@@ -44,11 +44,13 @@ https://flexboxfroggy.com/
 
 ## Exercise
 
-1. Build the following layout using flexbox:
+1. Use the `index.html` and the `assets` folder insise `6-flexbox` folder.
+2. Build a layout using flexbox.
+3. Play with the different properties.
+4. Now you can use flexbox in your html-form.
 
 
-
-* Create a new branch called /feature/css-basic-yourname
+* Create a new branch called /feature/css-flexbox-yourname
 * Push the changes to your local copy of the repo (Pull request).
 
 
