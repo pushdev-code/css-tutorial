@@ -6,6 +6,10 @@ Cascading Style Sheets
 
 CSS allows to change the look & feel of the HTML. Let's do the changes with this `<body>`
 
+### Example
+
+![image](https://user-images.githubusercontent.com/61557537/80292909-176dda80-8720-11ea-9b6d-3ff2beac1e07.png)
+
 ```html
   <body>
   <h1>First example with CSS</h1>
@@ -238,9 +242,9 @@ Image of Specificity
 
 ![CSS Specificity](https://css-tricks.com/wp-content/csstricks-uploads/cssspecificity-calc-1.png)
 
-### Example
+### Meme time
 
-![image](https://user-images.githubusercontent.com/61557537/80292909-176dda80-8720-11ea-9b6d-3ff2beac1e07.png)
+<img width="500" height="370" src="https://user-images.githubusercontent.com/61557537/80294093-80a71b00-872b-11ea-83c0-380f29d3ee4b.png">
 
 * [Img source](https://wallpaperset.com/wallpaper/517453)
 
@@ -252,7 +256,7 @@ Please complete all levels on https://flukeout.github.io/
 
 We are going to apply styles to the HTML form that we created in the [HTML Tutorial](https://pushdev-code.github.io/html-tutorial/)
 
-1. Change the color of the `<header>` and the `<footer>`.
+1. Change the `background-color` of the `<header>` and the `<footer>`.
 2. Set a `background-image` to the element that contains the `<form>`.
 3. Change the `background-color` of the `<form>`.
 4. Apply the `:hover` pseudo-class to the buttons.
