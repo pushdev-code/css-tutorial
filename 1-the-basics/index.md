@@ -10,6 +10,8 @@ CSS allows to change the look & feel of the HTML. Let's do the changes with this
 
 ![image](https://user-images.githubusercontent.com/61557537/80292909-176dda80-8720-11ea-9b6d-3ff2beac1e07.png)
 
+* [Img source](https://wallpaperset.com/wallpaper/517453)
+
 ```html
   <body>
   <h1>First example with CSS</h1>
@@ -246,7 +248,7 @@ Image of Specificity
 
 <img width="500" height="370" src="https://user-images.githubusercontent.com/61557537/80294093-80a71b00-872b-11ea-83c0-380f29d3ee4b.png">
 
-* [Img source](https://wallpaperset.com/wallpaper/517453)
+* It means, essentially, what it says; that 'this is important, ignore subsequent rules, and any usual specificity issues, apply this rule!'
 
 ### Selectors Task
 
