@@ -6,7 +6,8 @@ Cascading Style Sheets
 
 ### Motivation
 
-Let's see our form without CSS and WITH CSS.
+* Let's see our form without CSS and WITH CSS.
+* [Awesome CSS](https://medium.mybridge.co/26-impressive-web-projects-built-with-css-only-4a4c2f773a21)
 
 ### Example
 
