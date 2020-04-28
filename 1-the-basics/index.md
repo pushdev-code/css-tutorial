@@ -231,7 +231,7 @@ body {
 }
 
 li:hover {
-    background-color: rgba(255, 255, 255, 0.7); 
+    background-color: rgba(255, 255, 255, 0.7);
 }
 
 main {
@@ -255,7 +255,9 @@ Image of Specificity
 
 ### Selectors Task
 
-Please complete all levels on https://flukeout.github.io/
+Please complete all the levels of [Fluke Out](https://flukeout.github.io/)
+
+<iframe src="https://flukeout.github.io/" width="1024" height="768"></iframe>
 
 ### Exercise
 
