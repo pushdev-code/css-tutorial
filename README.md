@@ -8,7 +8,7 @@ What is CSS and why it's important to write Cascading Style Sheets, how to use r
 * [Positioning](2-positioning)
 * [Box Model](3-box-model)
 * [CSS Grid](4-css-grid)
-* [Flexbox](6-flexbox)
+* [Flexbox](5-flexbox)
 * [Media Queries](6-media-queries)
 * [Layouts](7-layouts)
 

@@ -45,7 +45,7 @@ Please complete all the levels of [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ## Exercise
 
-1. Use the `index.html` and the `assets` folder insise `6-flexbox` folder.
+1. Use the `index.html` int the `assets` folder inside `5-flexbox` folder.
 2. Create the `styles.css` file.
 3. Build a layout using flexbox.
 4. Play with the different properties.
