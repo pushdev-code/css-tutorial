@@ -5,10 +5,10 @@ What is CSS and why it's important to write Cascading Style Sheets, how to use r
 ## Topics:
 
 * [The basics](1-the-basics)
-* [Layouts](2-layouts)
-* [Positioning](3-positioning)
-* [Box Model](4-box-model)
-* [CSS Grid](5-css-grid)
+* [Positioning](2-positioning)
+* [Box Model](3-box-model)
+* [CSS Grid](4-css-grid)
 * [Flexbox](6-flexbox)
-* [Media Queries](7-media-queries)
+* [Media Queries](6-media-queries)
+* [Layouts](7-layouts)
 
