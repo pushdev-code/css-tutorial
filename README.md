@@ -1,4 +1,4 @@
-## Welcome to the CSS tutorial by [Push Dev](https://pushdev.co)
+## Welcome to the CSS tutorial, by [Push Dev](https://pushdev.co)
 
 What is CSS and why it's important to write Cascading Style Sheets, how to use rules, following conventions and apply best practices? Bear with us and we'll teach you how to code the best CSS styles.
 
