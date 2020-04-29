@@ -19,8 +19,6 @@ Image of Flexbox axis
 
 ![image](https://user-images.githubusercontent.com/61557537/80294555-a0d8d900-872f-11ea-9e94-fcf3c360a65e.png)
 
-If "regular" layout is based on both block and inline flow directions, the flex layout is based on "flex-flow directions". Please have a look at this figure from the specification, explaining the main idea behind the flex layout.
-
 ```css
 .flex-container {
   /* We first create a flex layout context */
@@ -40,7 +38,10 @@ If "regular" layout is based on both block and inline flow directions, the flex 
 ```
 ## Let's practice
 
-https://flexboxfroggy.com/
+
+Please complete all the levels of [Flexbox Froggy](https://flexboxfroggy.com/)
+
+<iframe src="https://flexboxfroggy.com/" width="1024" height="768"></iframe>
 
 ## Exercise
 
