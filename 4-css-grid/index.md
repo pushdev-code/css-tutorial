@@ -18,3 +18,21 @@ A grid will typically have columns, rows, and then gaps between each row and col
   grid-gap: 30px;
 }
 ```
+
+## Let's practice
+
+Please complete all the levels of [Grid Garden](https://cssgridgarden.com/)
+
+<iframe src="https://cssgridgarden.com/" width="1024" height="768"></iframe>
+
+## Exercise
+
+1.
+
+* Create a new branch called /feature/css-grid-yourname
+* Push the changes to your local copy of the repo (Pull request).
+
+
+## Source
+
+* [CSS-Tricks-Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
