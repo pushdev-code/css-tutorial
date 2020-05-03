@@ -16,10 +16,11 @@ Image of Flexbox axis
 
 * Most importantly, the flexbox layout is direction-agnostic as opposed to the regular layouts (block which is vertically-based and inline which is horizontally-based). 
 * While those work well for pages, they lack flexibility (no pun intended) to support large or complex applications (especially when it comes to orientation changing, resizing, stretching, shrinking, etc.).
-* Since flexbox is a whole module and not a single property, it involves a lot of things including its whole set of properties. 
-* Some of them are meant to be set on the container (parent element, known as "flex container") whereas the others are meant to be set on the children (said "flex items").
 
 ![image](https://user-images.githubusercontent.com/61557537/80294555-a0d8d900-872f-11ea-9e94-fcf3c360a65e.png)
+
+* Since flexbox is a whole module and not a single property, it involves a lot of things including its whole set of properties. 
+* Some of them are meant to be set on the container (parent element, known as "flex container") whereas the others are meant to be set on the children (said "flex items").
 
 ```css
 .flex-container {
