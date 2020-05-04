@@ -202,6 +202,9 @@ h1 + p {
 }
 ```
 
+* [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+
+
 ### Styling elements based on state
 
 ```html
@@ -246,6 +249,8 @@ Style attribute ----> ID ----> Class, pseudo-class attribute ----> Elements
 Image of Specificity
 
 ![CSS Specificity](https://css-tricks.com/wp-content/csstricks-uploads/cssspecificity-calc-1.png)
+
+* [CSS Values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 
 ### Meme time
 
