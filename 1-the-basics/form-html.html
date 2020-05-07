@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML BASIC</title>
+    <meta name="robots" content ="index,noodp">
+    <meta name="description" content="This web page have the form layout">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="og:title" property="og:title" content="Principal form layout">
+    <meta name="twitter:card" content="summary">
+    <link rel="alternate" hreflang="es" href="https://pushdev.co/">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>PUSH DEV</h1>
+        <h2>This is new project with the principal layout in HTML</h2>
+        <nav class="options">
+            <h3>Semantic caracteristics:</h3>
+            <ul>
+                <li>Search engine optimization (html code analysis)</li>
+                <li>Accessibility</li>
+                <li>Practicality</li>
+                <li>Reusability</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <article>
+             <header>
+                <h3>HTML</h3>    
+                <blockquote>"If you remember me, then I do not care that the rest forget me"
+                    -from
+                    <cite>Kafka on the shore</cite>
+                    by Haruki Murakami
+                </blockquote>                
+            </header>
+                <section>
+                    <h4>FORM</h4>
+                    <form>
+                        <fieldset>
+                            <legend>Please enter your contact details</legend>
+                                <label for="user_name">Your name:
+                                <input type="text" id="user_name" name="name" aria-required="true" required>
+                                <abbr title="required">*</abbr>
+                                </label>
+                                <label for="email">E-mail address
+                                <input type="email" id="email" name="user_email" aria-required="true" required>
+                                <abbr title="required">*</abbr>
+                                </label>
+                                <label for="user_phone_number">Phone number (+57)
+                                <input type="number" id="user_phone_number" name="user_phone">
+                                </label>
+                        </fieldset>
+                        <fieldset>
+                            <legend>Please select the courses thar are you interested in
+                                <abbr title="required">*</abbr>
+                            </legend>                 
+                            <input type="checkbox" id="taste_1" name="taste_web" value="web">
+                            <label for="taste_1">Web Developer</label>
+                            <input type="checkbox" id="taste_2" name="taste_react" value="react">
+                            <label for="taste_2">React Developer</label>
+                            <input type="checkbox" id="taste_3" name="taset_fullstack" value="fullstack">
+                            <label for="taste_3">Fullstack Developer</label>
+                            <input type="checkbox" id="taste_4" name="taste_other" value="other">
+                            <label for="taste_4">Other</label>
+                        </fieldset>
+                        <label for="text-box">Please enter a message</label>
+                        <div>
+                            <textarea name="message" id="text-box" cols="40" rows="10"></textarea>
+                        </div>
+                        <button>Send mesagge</button>
+                        <button type="reset">Reset form</button>
+                    </form>
+                </section>
+                <footer>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/kMagoD2pRLY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen alt="HTML element tutorial"></iframe>   
+                 </footer>
+        </article>
+    </main>
+    <aside>
+        <nav>      
+          <h2>Sitios relacionados</h2>      
+          <ul>      
+              <li><a href="https://www.w3schools.com/tags/tag_article.asp" title="HTML -article- Tag" rel="nofollow">https://www.w3schools.com/tags/tag_article.asp</a></li>         
+            </ul>     
+            <img width="400" height="300" src="https://i.pinimg.com/originals/e7/6e/1d/e76e1d22cc185c05cfa6192cc133bb29.png" alt="Announcement Pepsi" title="Announcement">
+        </nav> 
+    </aside>         
+    <footer>
+        <nav>
+            <ul>
+                <li>This is the first point by footer</li>
+            </ul>
+        </nav>
+        <p>This example was created <time datetime="2020-04-12 11:21">at 11:21 AM</time></p>
+    </footer>
+</body>
+</html>

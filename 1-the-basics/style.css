@@ -1,0 +1,23 @@
+blockquote {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button:hover {
+    background-color: palevioletred;
+}
+
+footer, header {
+    background-color: peachpuff;
+}
+
+form {
+    background-image: url(https://1.bp.blogspot.com/-aOdYJd_BI9E/UfGjBm5OmdI/AAAAAAAAErc/KFPcoQZ3q00/s1600/wallpapers_tecnologia_computacion_by_madboxpc-1.png);
+    background-size: cover;
+    background-color: salmon;
+    color:moccasin;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+h1, h2,h3, h4, li, p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
