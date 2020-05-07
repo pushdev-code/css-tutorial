@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="Inscription form">
+        <!--------------------------------- MetaTags Twitter ---------------------------------------------->
+        <meta name="twitter:card" value="summary">
+        <meta name="twitter:title" content="Inscription form">
+        <meta name="twitter:description" content="Datas from you">
+        <meta name="twitter:creator" content="@CAMILO ANDRES AGUILAR ALBORNOZ">
+        <!---------------------------------- MetaTags OG -------------------------------------------------->
+        <meta property="og:title" content="Inscription form" />
+        <meta property="og:type" content="article" />
+        <meta property="og:description" content="Datas from you" />
+        <meta property="og:site_name" content="Inscription form" />
+        <!----------------------------------- Styles ------------------------------------------------------>
+        <link href="./stylesheet/styles.css" type="text/css" rel="stylesheet">
+        <title>Form</title>
+    </head>
+    <body>
+        <header id="presentation">
+            <h1>Inscription</h1>
+        </header>
+        <main id="global">
+            <form action="POST" id="formInscription">
+                <fieldset>
+                    <legend>
+                        <strong>Please enter your contact details</strong>
+                    </legend>
+                    <label for="name">
+                        Your Name (required):
+                        <input type="text" name="name" required class="textAdd"/>
+                    </label>
+                    <br/>
+                    <label for="email">
+                        E-Mail Address (required):
+                        <input type="email" name="email" required class="textAdd">
+                    </label>
+                    <br/>
+                    <label for="phone">
+                        Phone number (+57): (optional):
+                        <input type="text" name="phone" class="textAdd">
+                    </label>
+                </fieldset>
+                <fieldset>
+                    <legend>
+                        <strong>Please select the courses that you are interested in (required)</strong>
+                    </legend>
+                    <label for="web-developer">
+                        <input type="checkbox" value="Web Developer" name="web-developer" required>
+                        Web Developer
+                    </label>
+                    <br/>
+                    <label for="react-developer">
+                        <input type="checkbox" value="React Developer" name="react-developer" required>
+                        React Developer
+                    </label>
+                    <br/>
+                    <label for="fullstack-developer">
+                        <input type="checkbox" value="Fullstack Developer" name="fullstack-developer" required>
+                        Fullstack Developer
+                    </label>
+                    <label for="other">
+                        <input type="checkbox" value="Other" name="Other" required>
+                        Other
+                    </label>
+                </fieldset>
+                <label for="message">
+                    <strong>Please enter a message (optional):</strong>
+                    <br/>
+                    <textarea name="" id="" cols="30" rows="10"></textarea>
+                </label>
+                <br>
+                <button class="buttons">Send message</button>
+                <button class="buttons">Reset form</button>
+            </form>
+        </main>
+        <footer>
+            Camilo Aguilar &copy;
+        </footer>
+    </body>
+</html>
