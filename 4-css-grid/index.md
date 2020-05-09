@@ -27,10 +27,12 @@ Please complete all the levels of [Grid Garden](https://cssgridgarden.com/)
 
 ## Exercise
 
-1.
+1. From master `$ git checkout master`, create a new branch called `feature/css-grid-exercise`.
+2. Create a new html file named `grid.html` with a css file named `styles.css` in `4-css-grid` folder.
+3. Create this layout using CSS grid.
+<img width="355" alt="Screen Shot 2020-05-09 at 11 56 06 AM" src="https://user-images.githubusercontent.com/668906/81480003-5d30a580-91ec-11ea-8a8f-7265514d31fa.png">
 
-* Create a new branch called /feature/css-grid-yourname
-* Push the changes to your local copy of the repo (Pull request).
+4. Push the changes to your local copy of the repo (Pull request).
 
 
 ## Source
