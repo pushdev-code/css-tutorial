@@ -268,7 +268,7 @@ Please complete all the levels of [Fluke Out](https://flukeout.github.io/)
 
 We are going to apply styles to the HTML form that we created in the [HTML Tutorial](https://pushdev-code.github.io/html-tutorial/)
 
-1. Change the `background-color` of the `<header>` and the `<footer>`.
+1. Change the `background-color` of the `<header>`.
 2. Set a `background-image` to the element that contains the `<form>`.
 3. Change the `background-color` of the `<form>`.
 4. Apply the `:hover` pseudo-class to the buttons.
