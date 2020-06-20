@@ -10,7 +10,7 @@ Box-Model has multiple properties in CSS. Some of them are given below:
 
 Image of Box Model
 
-![Box Model](https://www.csssolid.com/images/CSSBoxModel.png)
+![Box Model](https://www.csssolid.com/images/box-model/css-box-model.png)
 
 * `Content box`: The area where your content is displayed, which can be sized using properties like width and height.
 * `Padding box`: The padding sits around the content as white space; its size can be controlled using padding and related properties.
