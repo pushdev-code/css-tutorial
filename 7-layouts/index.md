@@ -13,7 +13,7 @@ You should already:
 1. From master `$ git checkout master`, create a new branch called `feature/layout-exercise`.
 2. Create a new html file named `layout.html` with a css file named `styles.css` in `7-layouts` folder.
 3. Create this layout:
-![Layout 1](https://cdn-images-1.medium.com/max/1600/1*aN_Im5EoU8hswHF2Hkpksw.gif)
+![Layout 1](https://miro.medium.com/max/700/1*1YW-4jYgXwjaE0fRatg6EQ.gif)
 * It should be responsive, you should use media queries.
 * It should match the columns, you can use grid or flexbox.
 * Images are responsive.
