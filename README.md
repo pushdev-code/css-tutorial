@@ -10,5 +10,3 @@ What is CSS and why it's important to write Cascading Style Sheets, how to use r
 * [CSS Grid](4-css-grid)
 * [Flexbox](5-flexbox)
 * [Media Queries](6-media-queries)
-* [Layouts](7-layouts)
-
