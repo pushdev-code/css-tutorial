@@ -1,0 +1,31 @@
+header {
+    color: white;
+    background-color: black;
+    border: 3px solid green;
+    position: sticky;
+}
+
+#menu {
+    border: 3px solid blue;
+    position: absolute;
+    padding-left: 3.6625%;
+    padding-right: 1.5625%;
+    border-left: 1.5625%;
+    border-right: 1.5625%;
+    border-top: 1.5625%;
+    border-bottom: 1.5625%;
+}
+
+.section {
+    border: 3px solid red;
+    position: relative;
+    width: 86.5%;
+    left: 13%;
+}
+
+
+footer {
+    border: 3px solid orange;
+    color: white;
+    background-color: black;
+}
