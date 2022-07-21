@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>document</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <form class="contenido-p" action="">
+        <fieldset>
+        <legend>Please enter your contact details</legend>
+        <label for="name">Your name (required):</label>
+        <input type="text" id="name" name="name" required><br>
+        <label for="mail">E-mail address (required):</label>
+        <input type="email" id="mail" name="user_mail" required><br>
+        <label for="namber">Phone number (+57): (optional):</label>
+        <input type="number" id="namber" name="user_mail" required>
+        </fieldset>
+        <fieldset>
+        <legend>Please select the courses that you are interested in (required):</legend>
+        <input type="checkbox" id="cbox1" value="checkbox" required>
+        <label for="cbox1">Web Developer</label><br>
+        <input type="checkbox" id="cbox2" value="checkbox" required>
+        <label for="cbox2">React Developer</label><br>
+        <input type="checkbox" id="cbox3" value="checkbox" required>
+        <label for="cbox3">Fullstack Developer</label><br>
+        <input type="checkbox" id="cbox4" value="checkbox" required>
+        <label for="cbox4">Other</label><br>
+
+    </fieldset>
+        <legend>Please enter a massage (optional):</legend>
+        <label for="text"></label>
+        <textarea name="text" id="text" cols="100" rows="10"></textarea><br>
+        <button class="btn" type="submit">Send massage</button>
+        <button class="btn" aria-label="Close" type="reset">Reset form</button>
+    </form>
+    <footer class="footer">
+        <p>Formulario de validación</p>
+    </footer>
+
+</body> 
+</html>
